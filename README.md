@@ -1,6 +1,20 @@
 ## VGG16-From-Scratch-
 Code-VGG16-From-Scratch with Keras
-
+Link google colab:
+* [VGG16_From_Scratch_Tensorflow.ipynb](https://colab.research.google.com/drive/1SkvK323UFKRq4ZgiixmCbOZ7SFwTWS-v?usp=sharing)&nbsp;
+## Installation
+Clone This Repository.
+```
+git clone https://github.com/TieuDiem/VGG16-From-Scratch-.git
+```
+Install package necessary.
+```
+import tensorflow as tf
+from tensorflow.keras.layers import Conv2D,Dense,MaxPooling2D
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
+```
 ## Inside VGG16 
 * This's Architecture of VGG16 (CNN)
 <div align="center">
