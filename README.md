@@ -49,23 +49,29 @@ MaxPooling2D(pool_size =(2,2),strides =(2,2)),
 <p>Input Image</p>
 
 <img src="Images/block_1.png" width="600" height="auto"></img>
-<p>Feature Map After Block 1</p>
-<p>TensorShape= [1, 112, 112, 64]<\p>
+<p>Feature Map After Block 1
+  <br>TensorShape([1, 112, 112, 64])
+</p>
+
 
 <img src="Images/block_2.png" width="600" height="auto"></img>
-<p>Feature Map After Block 2</p>
-<p>TensorShape([1, 56, 56, 128])<\p>
+<p>Feature Map After Block 2
+  <br> TensorShape([1, 56, 56, 128])
+</p>
 
 <img src="Images/block_3.png" width="600" height="auto"></img>
-<p>Feature Map After Block 3</p>
-<p>TensorShape([1, 28, 28, 256])<\p>
+<p>Feature Map After Block 
+  <br>TensorShape([1, 28, 28, 256])
+</p>
 
 <img src="Images/block_4.png" width="600" height="auto"></img>
-<p>Feature Map After Block 4</p>
-<p>TensorShape([1, 14, 14, 512])<\p>
+<p>Feature Map After Block 4
+  <br>TensorShape([1, 14, 14, 512])
+</p>
 
 <img src="Images/block_5.png" width="600" height="auto"></img>
-<p>Feature Map After Block 5</p>
-<p>TensorShape([1, 7, 7, 512])<\p>
+<p>Feature Map After Block 5
+  <br>TensorShape([1, 7, 7, 512])
+</p>
 </p>
 </div> 
