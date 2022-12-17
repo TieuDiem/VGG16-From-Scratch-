@@ -7,7 +7,8 @@ Code-VGG16-From-Scratch with Keras
 <p>
 <img src="Images/Architecture-VGG16.png" width="800" height="auto"></img>
 </p>
-</div>    
+</div>   
+
 - Block 1
 ``` bash
     Conv2D
