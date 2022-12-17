@@ -1,4 +1,4 @@
-## VGG16-From-Scratch-
+## VGG16-From-Scratch and Visualization How it Working ?
 Code-VGG16-From-Scratch with Keras
 Link google colab:
 * [VGG16_From_Scratch_Tensorflow.ipynb](https://colab.research.google.com/drive/1SkvK323UFKRq4ZgiixmCbOZ7SFwTWS-v?usp=sharing)&nbsp;
